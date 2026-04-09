@@ -11,3 +11,4 @@ airflow.cfg
 airflow.db
 lol_ai_champion_report*
 site/python3.11/greenlet
+greenlet.h
